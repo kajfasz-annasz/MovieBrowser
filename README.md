@@ -20,7 +20,7 @@ Aby uruchomić aplikację należy w wierszu poleceń (lokalizacja folderu *movie
 
 Jeśli plik został dopiero pobrany z repozytorium należy wcześniej wykonać polecenie
 ```npm install```
-w lokalizacja folderu *movie_browser.
+w lokalizacja folderu *movie_browser*.
 
 ### Prezentacja aplikacji
 
